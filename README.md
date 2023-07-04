@@ -1,5 +1,5 @@
 # Diwali-Sales-Analysis
-# python - jupyter notebook
+# python - Jupyter notebook
 # data cleaning done through python libraries :
 ##    numpy, pandas, seaborn, matplotlib
  
